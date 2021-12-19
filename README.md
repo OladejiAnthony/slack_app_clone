@@ -1,1 +1,1 @@
-# spotify_clone_app
+# slack_clone_app
