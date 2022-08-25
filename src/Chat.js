@@ -28,7 +28,7 @@ function Chat() {
   console.log(roomDetails, "roomMessages")
   return (
     <div className="chat">
-      <h1>You are in the room</h1>
+      <h1>You are in the {roomDetails} room</h1>
       <div className="chat__header">
         <div className="chat__headerLeft">
           <h4 className="chat__channelName">
