@@ -1,3 +1,4 @@
+
 <h1>Slack App Clone</h1>
 <h1><a href="https://slack-app-clone-331d3.firebaseapp.com/">Click Here to View Demo</a></h1>
 
@@ -71,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# slack_clone_app
+6f53ae17e3e42f7c28a63f2144573d1b3c164a24
